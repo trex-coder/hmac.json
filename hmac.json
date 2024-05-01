@@ -1,17 +1,1 @@
-{
-  "type": "TATAPLAY HMAC API",
-  "author": "Team CodeCrafters",
-  "community": "https://t.me/realcodecrafters",
-  "data": {
-    "hmac": {
-      "hdnea": {
-        "value": "hdnea=exp=1714551730~acl=/*~hmac=24efcc59f43546280c1acd65fb9924e6567b3de4243ec705c2aae255a8ef9732",
-        "validity": "24 Hours"
-      },
-      "hdtl": {
-        "value": "hdntl=exp=1714637530~acl=%2f*~data=hdntl~hmac=f112d1644e27fef932e386e6ad789a4dbc7e83b874d2b0cd7b75c400b5fb439f",
-        "validity": "24 Hours"
-      }
-    }
-  }
-}
+{"type":"TATAPLAY HMAC API","author":"Team CodeCrafters","community":"https://t.me/realcodecrafters","data":{"hmac":{"hdnea":{"value":"hdnea=exp=1714557489~acl=/*~hmac=6537d9fb6a9ccf20db7f498f20703c8cacffd3ea17735c2123e6cda4dde03e5a","validity":"10 Minutes"},"hdtl":{"value":"hdntl=exp=1714643289~acl=%2f*~data=hdntl~hmac=79b16f1c3b61b97ba83e9e6005920c1accdb7488d29064c39b9b955932a520c2","validity":"24 Hours"}}}}
